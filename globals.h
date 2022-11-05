@@ -5,7 +5,7 @@
 #define ROLLER_GEARING SPD_MTR
 
 // Control
-#define SENSITIVITY 1
+#define SENSITIVITY 0.75
 extern int control_mode;
 extern float drive_speed;
 
